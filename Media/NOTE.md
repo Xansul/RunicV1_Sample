@@ -1,0 +1,1 @@
+This folder contains two short video files showing basic development progress, providing a simple example of using C++ with Unreal Engine's Blueprint scripting system (VFX, animations, basic AI behavior trees, etc.). Further media demonstrating progress on the newly written melee combo system, interaction system, and combat improvements will be added soon.
